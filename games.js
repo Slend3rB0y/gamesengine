@@ -32,6 +32,7 @@ var OWN_ENGINE = 'Own Engine'
 var PHASERJS = 'Phaser.js'
 var COCOS2D = 'Cocos2D'
 var RED_ENGINE = 'REDengine 2/3/4'
+var AVALANCHE = 'Avalanche'
 
 GAMES = [
       {name: 'Dauntless', engine: UNREAL4, releaseDate: {q: 4, y: 2017}, imgId: 'dauntless', yt: 'xOMq_luhZoA'},
@@ -42,4 +43,5 @@ GAMES = [
       {name: 'Life is Strange', engine: UNREAL3, releaseDate: {d: 30, m: 1, y: 2015}, imgId: 'life-is-strange', yt: 'YznXuKwJtMg'},
       {name: 'The Forest', engine: UNITY, releaseDate: {d: 30, m: 5, y: 2014}, imgId: 'the-forest', yt: '4qTtVMM3uqQ'},
       {name: 'The Witcher 3', engine: RED_ENGINE, releaseDate: {d: 19, m: 5, y: 2015}, imgId: 'witcher3', yt: 'tDfa1Qp2SwA'}
+      {name: 'Just Cause 3', engine: AVALANCHE, realeaseDate: {d: 1, m: 12, y:2015, imgId: 'just_cause3' ,yt: 'zf5i8w2YNHk'} //quelle: wikipedia.org/wiki/Just_Cause_3
 ]
